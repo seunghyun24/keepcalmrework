@@ -1,0 +1,21 @@
+body{
+	color: white;
+	background-color: #7F170E;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+img{
+	width: 200px
+}
+#box{
+	font-size: 80px;
+	border: 5px double white;
+	background-color: #7F170E;
+	width: 500px;
+	margin: 0px auto;
+
+}
+#smaller{
+	font-size: 32px;
+}
